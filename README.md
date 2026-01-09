@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/XUsLBSq.gif" width="337px" height="500px" />
+  <img src="https://i.imgur.com/XUsLBSq.gif" width="50%"  />
 </div>
 
 ---
