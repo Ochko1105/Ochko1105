@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/9F0BBvF.gif" width="337px" height="500px" />
+  <img src="https://i.imgur.com/XUsLBSq.gif" width="337px" height="500px" />
 </div>
 
 
@@ -26,7 +26,8 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ochko1105&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Ochko1105&theme=tokyonight)
+![Streak](https://github-states-generator.vercel.app/api/streak?username=Ochko1105&theme=tokyonight&show_icons=true&bg_color=282525)
+
 
 </div>
 
