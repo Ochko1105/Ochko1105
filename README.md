@@ -8,9 +8,6 @@
 <div align="center">
   <img src="https://i.imgur.com/9F0BBvF.gif" width="50%"  />
 </div>
-<div align="center">
-  <img src="https://i.imgur.com/XUsLBSq.gif" width="50%"  />
-</div>
 
 ---
 
