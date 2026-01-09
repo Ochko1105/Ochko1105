@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://imgur.com/gallery/hiroto-ogiwara-landing-first-ever-2340-SZmBIzX.jpg" width="80%" />
+  <img src="https://camo.githubusercontent.com/b23508326f29ff3a28c524accac9da355eb23b4607be22ee052ab122eeed4cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f66392f65632f36656639656334393064383738303663636631353635613066313566343865642e676966" width="80%" />
 </div>
 
 ---
