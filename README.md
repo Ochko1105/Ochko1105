@@ -15,16 +15,5 @@
 - 🌐 Node.js • Express • GraphQL
 - 🎮 Movie • Games • Anime • Code
 
----
-
-## 📊 My GitHub Statistics
-
-<div align="center">
-
-![Streak](https://github-states-generator.vercel.app/api/streak?username=Ochko1105&theme=tokyonight&show_icons=true&bg_color=282525)
-
-</div>
-
----
 
 
