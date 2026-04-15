@@ -3,7 +3,6 @@
 
 ### 🧠 About Me
 
-* 🧑‍💻 Full Stack Developer @ **Nest Core LLC**
 * 💻 HTML • CSS • JavaScript • TypeScript • Dart
 * ⚛️ React • React Native • Next.js • Flutter • FlutterFlow
 * 🌐 Node.js • Express • GraphQL
