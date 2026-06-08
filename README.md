@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" width="400"/>
 
 # 👋 Welcome to my GitHub Profile!
 
@@ -8,7 +8,6 @@
 
 <br/>
 
-> *"The best error message is the one that never shows up."*
-> — Thomas Fuchs
+*"The best error message is the one that never shows up."* — Thomas Fuchs
 
 </div>
